@@ -441,7 +441,7 @@ const translation = {
         apply: '適用',
         doc: '構造化出力の詳細を見る',
         resetDefaults: '初期化',
-        required: '必須項目',
+        required: '必須',
         addField: 'フィールドを追加',
         addChildField: 'サブフィールドを追加',
         showAdvancedOptions: '詳細設定',
